@@ -3,11 +3,18 @@ A curated list of resources around the k, q, kdb+ and similar languages.
 
 ## k
 
+* https://kparc.com/
+  * [ref](http://kparc.com/k.txt)
+
 ## q/kdb+
 
 * [docs](https://code.kx.com/q/)
+* [jupyterq](https://code.kx.com/v2/ml/jupyterq/)
 
 ## klong
+
+* https://t3x.org/klong/index.html
+  * [klong vs k](https://t3x.org/klong/klong-vs-k.txt.html)
 
 ## HN threads
 
