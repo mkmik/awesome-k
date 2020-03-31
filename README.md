@@ -2,10 +2,13 @@
 A curated list of resources around the k, q, kdb+ and similar languages.
 
 ## k
-
-* https://kparc.com/
-  * [ref](http://kparc.com/k.txt)
+  
 * [The K language](http://archive.vector.org.uk/art10010830): by Arthur Whitney, 2005
+* [Ok manual](https://github.com/JohnEarnest/ok/blob/gh-pages/docs/Manual.md): manual for a OSS k6 impl
+
+### Tools
+
+* https://github.com/adavies42/qist/blob/master/lib/awq.k
 
 ### Implementations
 
@@ -20,7 +23,7 @@ Open source implementations [table](https://bitbucket.org/ngn/k).
 * [kona](https://github.com/kevinlawler/kona): opensource K3 impl in C (ISC)
 * [ngn/k](https://bitbucket.org/ngn/k/src/master/readme.txt): K6 impl in C (AGPL)
 
-### Shakti (k7-k9)
+#### Shakti (k7-k9)
 
 * https://kparc.io/: k7 resources
   * [ref] https://ref.kparc.io/
@@ -44,6 +47,13 @@ Open source implementations [table](https://bitbucket.org/ngn/k).
 
 * [Impending kOS](https://news.ycombinator.com/item?id=8475809)
 * [The K language](https://news.ycombinator.com/item?id=11561573)
+
+## Unsorted links
+
+* https://kparc.com/
+  * http://kparc.com/k.txt
+  * https://kparc.com/d.txt
+  * http://www.kparc.com/$: kOS?
 
 ## Quotes
 
