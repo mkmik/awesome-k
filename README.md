@@ -5,8 +5,11 @@ A curated list of resources around the k, q, kdb+ and similar languages.
 
 * https://kparc.com/
   * [ref](http://kparc.com/k.txt)
-* [Ok](https://github.com/JohnEarnest/ok): opensource K5 impl in JS (MIT)
-* [kona](https://github.com/kevinlawler/kona): opensource K3 impl in C (ISC)
+* OSS implementations:
+  * [Ok](https://github.com/JohnEarnest/ok): opensource K5 impl in JS (MIT)
+  * [kona](https://github.com/kevinlawler/kona): opensource K3 impl in C (ISC)
+* articles:
+  * [The K language](http://archive.vector.org.uk/art10010830): by Arthur Whitney, 2005
 
 ## Shakti (k7)
 
