@@ -6,6 +6,13 @@ A curated list of resources around the k, q, kdb+ and similar languages.
 * https://kparc.com/
   * [ref](http://kparc.com/k.txt)
 
+## Shakti
+
+* https://shakti.com/
+* https://kparc.io/
+  * [ref] https://ref.kparc.io/
+  * [kcc] https://kcc.kparc.io/
+
 ## q/kdb+
 
 * [docs](https://code.kx.com/q/)
