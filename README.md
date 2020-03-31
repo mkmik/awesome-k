@@ -6,7 +6,7 @@ A curated list of resources around the k, q, kdb+ and similar languages.
 * https://kparc.com/
   * [ref](http://kparc.com/k.txt)
 
-## Shakti
+## Shakti (k7)
 
 * https://shakti.com/
 * https://kparc.io/
