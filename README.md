@@ -17,6 +17,7 @@ A curated list of resources around the k, q, kdb+ and similar languages.
 
 * [docs](https://code.kx.com/q/)
 * [jupyterq](https://code.kx.com/v2/ml/jupyterq/)
+* [Kdb qSQL vs standard SQL queries](http://www.timestored.com/b/kdb-qsql-query-vs-sql/)
 
 ## klong
 
