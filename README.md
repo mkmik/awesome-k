@@ -19,3 +19,4 @@ A curated list of resources around the k, q, kdb+ and similar languages.
 ## HN threads
 
 * [Impending kOS](https://news.ycombinator.com/item?id=8475809)
+* [The K language](https://news.ycombinator.com/item?id=11561573)
