@@ -16,7 +16,7 @@ Commercial impls:
 Open source implementations [table](https://bitbucket.org/ngn/k).
 
 * [Ok](https://github.com/JohnEarnest/ok): opensource K5 impl in JS (MIT)
-* [kuc](https://github.com/zholos/kuc): K5 impl in C (GPLv3)
+* [kuc](https://github.com/zholos/kuc): K5+ impl in C (GPLv3)
 * [kona](https://github.com/kevinlawler/kona): opensource K3 impl in C (ISC)
 * [ngn/k](https://bitbucket.org/ngn/k/src/master/readme.txt): K6 impl in C (AGPL)
 
