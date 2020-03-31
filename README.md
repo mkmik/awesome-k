@@ -5,6 +5,7 @@ A curated list of resources around the k, q, kdb+ and similar languages.
 
 * https://kparc.com/
   * [ref](http://kparc.com/k.txt)
+* [Ok](https://github.com/JohnEarnest/ok): opensource K5 impl in JS (MIT)
 
 ## Shakti (k7)
 
