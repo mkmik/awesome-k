@@ -55,6 +55,8 @@ Open source implementations [table](https://bitbucket.org/ngn/k).
 
 ## Unsorted links
 
+* http://vrabi.web.elte.hu/k/
+
 * https://kparc.com/
   * http://kparc.com/k.txt
   * https://kparc.com/d.txt
