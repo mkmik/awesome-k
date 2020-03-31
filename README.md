@@ -4,6 +4,11 @@ A curated list of resources around the k, q, kdb+ and similar languages.
 ## k
   
 * [The K language](http://archive.vector.org.uk/art10010830): by Arthur Whitney, 2005
+* [A shallow introduction to the K Programming language](https://web.archive.org/web/20130801233812/http://www.kuro5hin.org/story/2002/11/14/22741/791): 2002
+* [K](http://www.math.bas.bg/bantchev/place/k.html)
+https://web.archive.org/web/20130801233812/http://www.kuro5hin.org/story/2002/11/14/22741/791
+* [K user manual](http://web.archive.org/web/20041022042401/http://www.kx.com/technical/documents/kusrlite.pdf): PDF, 2004
+* [K ref manual](http://web.archive.org/web/20050504070651/http://www.kx.com/technical/documents/kreflite.pdf): PDF, 2005
 * [Ok manual](https://github.com/JohnEarnest/ok/blob/gh-pages/docs/Manual.md): manual for a OSS k6 impl
 
 ### Tools
